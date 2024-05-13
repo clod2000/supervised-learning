@@ -1,3 +1,10 @@
+lab05/data/
+lab05/pytorch-receptive-field/
+lab05/torch_receptive_field
+lab06/*.tar
+lab06/imd*
+lab06/*.pth
+lab07/single*
 lab08/data
 lab08/*.zip
 .idea/
