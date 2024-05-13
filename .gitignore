@@ -1,3 +1,7 @@
-lab07/data/
-lab08/data/
+lab08/data
 lab08/*.zip
+lab08/inference_outputs/
+lab08/.ipynb_checkpoints/
+lab08/outputs/
+.idea/
+

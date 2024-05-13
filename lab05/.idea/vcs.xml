@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../condiv_Luca/assignments_matlab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytorch-receptive-field" vcs="Git" />
+  </component>
+</project>
